@@ -6,3 +6,4 @@ To set yummy project : <br/>
 To login into dashboard panel <br/>
 E-Mail : Admin01@gmail.com <br/>
 Password : admin123 <br/>
+"# yummy_assignment_web" 
